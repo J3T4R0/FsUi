@@ -6,7 +6,7 @@ source https://nuget.pkg.github.com/fc1943s/index.json username: "%GITHUB_ACTOR%
 
 nuget FSharp.Core >= 5.0 prerelease
 
-github J3T4R0/FsCore:4db00ad548e080454cb06105c62925d95ed6f68d
+github J3T4R0/FsCore:d4d81b39ec31dd45b8c78db6190dbf4b719463f0
 github fc1943s/FsJs:68871d87e9290e7eb69aa0b21db2521eee1d9ec6
 nuget FsStore ~> 0.1 prerelease
 

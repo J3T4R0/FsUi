@@ -8,7 +8,7 @@ nuget FSharp.Core >= 5.0 prerelease
 
 nuget FsCore ~> 0.0 prerelease
 nuget FsJs ~> 0.0 prerelease
-nuget FsStore ~> 0.2 prerelease
+nuget FsStore ~> 0.1 prerelease
 
 // FsUi
 nuget Feliz.Router ~> 3.8

@@ -4,7 +4,7 @@ storage: none
 source https://api.nuget.org/v3/index.json
 source https://nuget.pkg.github.com/fc1943s/index.json username: "%GITHUB_ACTOR%" password: "%GITHUB_READ_PACKAGES_TOKEN%"
 
-nuget FSharp.Core >= 5.0 prerelease
+nuget FSharp.Core >= 6.0
 
 github fc1943s/FsCore:2b6d3aebed37df71835a09de0b964eef31b13765
 github fc1943s/FsJs:68871d87e9290e7eb69aa0b21db2521eee1d9ec6
